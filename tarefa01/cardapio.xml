@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio>
+    <prato id="P01">
+        <nome>Pudim</nome>
+        <descricao>pudim bom e gostoso feito em panela de pressao :P</descricao>
+        <ingredientes>
+            <ingrediente>1 lata de leite condensado</ingrediente>
+            <ingrediente>1 lata de leite</ingrediente>
+            <ingrediente>3 ovos</ingrediente>
+            <ingrediente>Açúcar para caramelizar</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL"></preco>
+        <calorias>230</calorias>
+        <tempoPreparo>30min</tempoPreparo>
+    </prato>
+</cardapio>
