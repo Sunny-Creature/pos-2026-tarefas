@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE imobiliaria [
+<!ELEMENT imobiliaria (imovel+)>
+<!ELEMENT imovel (descricao,proprietario,endereco,caracteristicas,valor)>
+<!ELEMENT descricao (#PCDATA)>
+<!ELEMENT valor (#PCDATA)>
+
+<!ELEMENT proprietario (nome, (email|telefone)+)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT telefone (#PCDATA)>
+
+<!ELEMENT endereco (rua,bairro,cidade,número?)>
+<!ELEMENT rua (#PCDATA)>
+<!ELEMENT bairro (#PCDATA)>
+<!ELEMENT cidade (#PCDATA)>
+<!ELEMENT número (#PCDATA)>
+
+<!ELEMENT caracteristicas (tamanho,numQuartos,numBanheiros)>
+<!ELEMENT tamanho (#PCDATA)>
+<!ELEMENT numQuartos (#PCDATA)>
+<!ELEMENT numBanheiros (#PCDATA)>
+]>
+
+<imobiliaria>
+    <imovel>
+        <descricao>imovel incrivel</descricao>
+        <proprietario>
+            <nome>carlos</nome>
+            <email>carlos@gmail.com</email>
+            <telefone></telefone>
+        </proprietario>
+        <endereco>
+            <rua>rua rua</rua>
+            <bairro>centro</bairro>
+            <cidade>Natal</cidade>
+            <número></número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>grande</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>3</numBanheiros>
+        </caracteristicas>
+        <valor>80</valor>
+    </imovel>
+    <imovel>
+        <descricao>outro imovel incrivel</descricao>
+        <proprietario>
+            <nome>joilson</nome>
+            <email></email>
+            <telefone>(84) 9 0000-0000</telefone>
+        </proprietario>
+        <endereco>
+            <rua></rua>
+            <bairro></bairro>
+            <cidade></cidade>
+            <número></número>
+        </endereco>
+        <caracteristicas>
+            <tamanho></tamanho>
+            <numQuartos></numQuartos>
+            <numBanheiros></numBanheiros>
+        </caracteristicas>
+        <valor></valor>
+    </imovel>
+</imobiliaria>

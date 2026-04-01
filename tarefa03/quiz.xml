@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE quiz SYSTEM "quiz.dtd">
+<quiz versao="facil">
+    <disciplina>Matemática</disciplina>
+    <professor>
+        <nome>Carol</nome>
+        <matrícula></matrícula>
+    </professor>
+    <turma>Segundo ano B</turma>
+    <data>06 de março</data>
+    <questões>
+        <questão>
+            <enunciado>01. Qual o resultado de 33+77?</enunciado>
+            <pontuação>10</pontuação>
+            <alternativas>
+                <alternativa correta="sim">110</alternativa>
+                <alternativa correta="nao">100</alternativa>
+                <alternativa correta="nao">77</alternativa>
+                <alternativa correta="nao">143</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>02. Cinco amigos compram um bolo de 15 fatias para um piquenique. Quantas fatias cada um vai receber?</enunciado>
+            <pontuação>10</pontuação>
+            <alternativas>
+                <alternativa correta="nao">5</alternativa>
+                <alternativa correta="nao">7</alternativa>
+                <alternativa correta="sim">3</alternativa>
+                <alternativa correta="nao">4</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>03. Uma pessoa pretende jogar um dado de 6 lado, mas quer saber a probabilidade de cair o número 6. Selecione a porcentagem correta.</enunciado>
+            <pontuação>10</pontuação>
+            <alternativas>
+                <alternativa correta="nao"></alternativa>
+                <alternativa correta="nao">10</alternativa>
+                <alternativa correta="nao">33,3</alternativa>
+                <alternativa correta="sim">16,67</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>04. O resultado de 56x3 é</enunciado>
+            <pontuação>10</pontuação>
+            <alternativas>
+                <alternativa correta="sim">168</alternativa>
+                <alternativa correta="nao">215</alternativa>
+                <alternativa correta="nao">100</alternativa>
+                <alternativa correta="nao">140</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>05. Lembrando de ângulos notáveis, o valor do cosseno de 30° é</enunciado>
+            <pontuação>10</pontuação>
+            <alternativas>
+                <alternativa correta="nao">√2/2</alternativa>
+                <alternativa correta="sim">√3/2</alternativa>
+                <alternativa correta="nao">√3</alternativa>
+                <alternativa correta="nao">1/2</alternativa>
+            </alternativas>
+        </questão>
+    </questões>
+</quiz>
