@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE cardapio [
+<!ELEMENT cardapio (prato+)>
 <!ATTLIST prato id ID #REQUIRED>
 <!ELEMENT prato (nome,descricao,ingredientes,preco,calorias,tempoPreparo)>
 <!ELEMENT nome (#PCDATA)>
 <!ELEMENT descricao (#PCDATA)>
 <!ELEMENT ingredientes (ingrediente+)>
-<!ATTLIST preco moeda (BRL|URL) #FIXED BRL>
+<!ELEMENT ingrediente (#PCDATA)>
+<!ELEMENT preco (#PCDATA)>
+<!ATTLIST preco moeda (BRL|USD) "BRL">
 <!ENTITY reais "R$">
 <!ELEMENT calorias (#PCDATA)>
 <!ELEMENT tempoPreparo (#PCDATA)>
-]>

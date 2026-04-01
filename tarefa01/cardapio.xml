@@ -3,20 +3,20 @@
 <cardapio>
     <prato id="P01">
         <nome>Pudim de panela de pressão</nome>
-        <descricao>Pudim feito em panela de pressão.</descricao>
+        <descricao>Pudim caseiro feito em panela de pressão.</descricao>
         <ingredientes>
             <ingrediente>1 lata de leite condensado</ingrediente>
             <ingrediente>1 lata de leite</ingrediente>
             <ingrediente>3 ovos</ingrediente>
             <ingrediente>Açúcar para caramelizar</ingrediente>
         </ingredientes>
-        <preco moeda="BRL">&reais; 20,00</preco>
+        <preco moeda="BRL">&reais; 18.00</preco>
         <calorias>230</calorias>
         <tempoPreparo>30min</tempoPreparo>
     </prato>
     <prato id="P02">
         <nome>Tiramisù</nome>
-        <descricao>Tiramisù italiano</descricao>
+        <descricao>Tiramisù italiano.</descricao>
         <ingredientes>
             <ingrediente>6 claras de ovo em neve</ingrediente>
             <ingrediente>6 gemas peneiradas</ingrediente>
@@ -27,13 +27,13 @@
             <ingrediente>1 dose pequena de licor de chocolate</ingrediente>
             <ingrediente>chocolate em pó para cobrir</ingrediente>
         </ingredientes>
-        <preco moeda="BRL">&reais; 26,00</preco>
+        <preco moeda="BRL">&reais; 20.00</preco>
         <calorias>235</calorias>
         <tempoPreparo>5h</tempoPreparo>
     </prato>
     <prato id="P03">
         <nome>Cupcake</nome>
-        <descricao>Bolos pequeno em formas decorativas.</descricao>
+        <descricao>Bolos pequenos em formas decorativas.</descricao>
         <ingredientes>
             <ingrediente>3 gemas</ingrediente>
             <ingrediente>2 xícaras de açúcar</ingrediente>
@@ -44,21 +44,35 @@
             <ingrediente>3 e 1/2 xícaras de farinha de trigo</ingrediente>
             <ingrediente>1 colher de sopa de fermento</ingrediente>
         </ingredientes>
-        <preco moeda="USD">&reais; 15,00</preco>
+        <preco moeda="USD">&reais; 15.00</preco>
         <calorias>305</calorias>
         <tempoPreparo>1h</tempoPreparo>
     </prato>
     <prato id="P04">
         <nome>Brigadeiro de leite em pó</nome>
-        <descricao></descricao>
+        <descricao>Ideal para festas de aniversário.</descricao>
         <ingredientes>
             <ingrediente>1 lata de leite condensado</ingrediente>
             <ingrediente>4 colheres de sopa de leite em pó</ingrediente>
             <ingrediente>1 colher de sopa de manteiga</ingrediente>
             <ingrediente>leite em pó para cobrir</ingrediente>
         </ingredientes>
-        <preco moeda="USD">&reais; 3,00</preco>
+        <preco moeda="USD">&reais; 3.00</preco>
         <calorias>65</calorias>
         <tempoPreparo>10min</tempoPreparo>
+    </prato>
+    <prato id="P05">
+        <nome>Mochi</nome>
+        <descricao>Sobremesa japonesa popular.</descricao>
+        <ingredientes>
+            <ingrediente>300g de arroz mochigome</ingrediente>
+            <ingrediente>300ml de água</ingrediente>
+            <ingrediente>Amido de milho</ingrediente>
+            <ingrediente>Corante comestível</ingrediente>
+            <ingrediente>Recheio de sorvete (qualquer sabor)</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL">&reais; 15.00</preco>
+        <calorias>96</calorias>
+        <tempoPreparo>20min</tempoPreparo>
     </prato>
 </cardapio>
