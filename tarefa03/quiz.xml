@@ -4,7 +4,7 @@
     <disciplina>Matemática</disciplina>
     <professor>
         <nome>Carol</nome>
-        <matrícula></matrícula>
+        <matrícula>123456</matrícula>
     </professor>
     <turma>Segundo ano B</turma>
     <data>06 de março</data>
@@ -33,7 +33,7 @@
             <enunciado>03. Uma pessoa pretende jogar um dado de 6 lado, mas quer saber a probabilidade de cair o número 6. Selecione a porcentagem correta.</enunciado>
             <pontuação>10</pontuação>
             <alternativas>
-                <alternativa correta="nao"></alternativa>
+                <alternativa correta="nao">16,6</alternativa>
                 <alternativa correta="nao">10</alternativa>
                 <alternativa correta="nao">33,3</alternativa>
                 <alternativa correta="sim">16,67</alternativa>

@@ -24,43 +24,64 @@
 
 <imobiliaria>
     <imovel>
-        <descricao>imovel incrivel</descricao>
+        <descricao>Casa próxima à praia.</descricao>
         <proprietario>
-            <nome>carlos</nome>
-            <email>carlos@gmail.com</email>
-            <telefone></telefone>
+            <nome>Carlos Luís</nome>
+            <email>luisc@email.com</email>
+            <telefone>91234-5678</telefone>
         </proprietario>
         <endereco>
             <rua>rua rua</rua>
-            <bairro>centro</bairro>
+            <bairro></bairro>
             <cidade>Natal</cidade>
-            <número></número>
         </endereco>
         <caracteristicas>
-            <tamanho>grande</tamanho>
-            <numQuartos>3</numQuartos>
-            <numBanheiros>3</numBanheiros>
+            <tamanho>80m²</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
         </caracteristicas>
-        <valor>80</valor>
+        <valor>50000</valor>
     </imovel>
+
     <imovel>
-        <descricao>outro imovel incrivel</descricao>
+        <descricao>Apartamento de luxo com varanda grande.</descricao>
         <proprietario>
-            <nome>joilson</nome>
-            <email></email>
-            <telefone>(84) 9 0000-0000</telefone>
+            <nome>Isabelly Lima</nome>
+            <email>Isa@email.com</email>
+            <telefone>99012-3456</telefone>
+            <telefone>97890-1234</telefone>
         </proprietario>
         <endereco>
-            <rua></rua>
+            <rua>rua rua</rua>
             <bairro></bairro>
-            <cidade></cidade>
-            <número></número>
+            <cidade>João Pessoa</cidade>
+            <número>44</número>
         </endereco>
         <caracteristicas>
-            <tamanho></tamanho>
-            <numQuartos></numQuartos>
-            <numBanheiros></numBanheiros>
+            <tamanho>70m²</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>2</numBanheiros>
         </caracteristicas>
-        <valor></valor>
+        <valor>65000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Casa com quintal e garagem para 2 carros.</descricao>
+        <proprietario>
+            <nome>Gercina dos Santos</nome>
+            <telefone>95678-9012</telefone>
+        </proprietario>
+        <endereco>
+            <rua>rua rua</rua>
+            <bairro></bairro>
+            <cidade>Caicó</cidade>
+            <número>80</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>200m²</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>200000</valor>
     </imovel>
 </imobiliaria>
