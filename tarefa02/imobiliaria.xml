@@ -28,11 +28,11 @@
         <proprietario>
             <nome>Carlos Luís</nome>
             <email>luisc@email.com</email>
-            <telefone>91234-5678</telefone>
+            <telefone>99999-8888</telefone>
         </proprietario>
         <endereco>
-            <rua>rua rua</rua>
-            <bairro></bairro>
+            <rua>rua Erivan França</rua>
+            <bairro>Ponta Negra</bairro>
             <cidade>Natal</cidade>
         </endereco>
         <caracteristicas>
@@ -48,8 +48,8 @@
         <proprietario>
             <nome>Isabelly Lima</nome>
             <email>Isa@email.com</email>
-            <telefone>99012-3456</telefone>
-            <telefone>97890-1234</telefone>
+            <telefone>98888-5555</telefone>
+            <telefone>96666-4444</telefone>
         </proprietario>
         <endereco>
             <rua>rua rua</rua>
@@ -69,11 +69,11 @@
         <descricao>Casa com quintal e garagem para 2 carros.</descricao>
         <proprietario>
             <nome>Gercina dos Santos</nome>
-            <telefone>95678-9012</telefone>
+            <telefone>97777-9999</telefone>
         </proprietario>
         <endereco>
-            <rua>rua rua</rua>
-            <bairro></bairro>
+            <rua>rua Aurino Ribeiro</rua>
+            <bairro>Alto da Boa Vista</bairro>
             <cidade>Caicó</cidade>
             <número>80</número>
         </endereco>
