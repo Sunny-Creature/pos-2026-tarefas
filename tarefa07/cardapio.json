@@ -1,0 +1,79 @@
+{
+"pratos":
+    [
+        {"nome":"Pudim de panela de pressão",
+        "id":"P01",
+        "descricao":"Pudim caseiro feito em panela de pressão.",
+        "ingredientes":[
+            "leite condensado",
+            "leite",
+            "ovos",
+            "açúcar caramelizado"
+        ],
+        "preco":18.00,
+        "calorias":230,
+        "tempoPreparo":"30min"
+        },
+
+        {"nome":"Tiramisù",
+        "id":"P02",
+        "descricao":"Tiramisù italiano.",
+        "ingredientes":[
+            "ovos",
+            "leite condensado",
+            "queijo mascarpone",
+            "biscoito champagne",
+            "café",
+            "licor de chocolate",
+            "chocolate em pó"
+        ],
+        "preco":20.00,
+        "calorias":235,
+        "tempoPreparo":"5h"
+        },
+
+        {"nome":"Cupcake",
+        "id":"P03",
+        "descricao":"Bolinhos pequenos em forminhas.",
+        "ingredientes":[
+            "ovos",
+            "essência de baunilha",
+            "leite",
+            "óleo",
+            "farinha de trigo",
+            "fermento"
+        ],
+        "preco":15.00,
+        "calorias":35,
+        "tempoPreparo":"1h"
+        },
+
+        {"nome":"Brigadeiro de leite em pó",
+        "id":"P04",
+        "descricao":"Brigadeiros feitos em leite em pó.",
+        "ingredientes":[
+            "leite condensado",
+            "leite em pó",
+            "manteiga"
+        ],
+        "preco":3.00,
+        "calorias":65,
+        "tempoPreparo":"10min"
+        },
+
+        {"nome":"Mochi",
+        "id":"P05",
+        "descricao":"Sobremesa japonesa.",
+        "ingredientes":[
+            "arroz mochigome",
+            "água",
+            "amido de milho",
+            "corante comestível",
+            "recheio de sorvete (qualquer sabor)"
+        ],
+        "preco":15.00,
+        "calorias":96,
+        "tempoPreparo":"20min"
+        }
+    ]
+}

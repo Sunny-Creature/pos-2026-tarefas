@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE cardapio SYSTEM "cardapio.xsd">    
+<!DOCTYPE cardapio SYSTEM "">    
 <cardapio>
     <prato id="P01">
         <nome>Pudim de panela de pressão</nome>

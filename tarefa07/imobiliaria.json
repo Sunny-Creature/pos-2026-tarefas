@@ -1,0 +1,18 @@
+{
+    "imobiliária":
+        [
+            {"imovel":{
+                "descricao":"",
+                "proprietario":{
+                    "nome":"",
+                    "email":"",
+                    "telefone":""
+                },
+                "endereco":{
+                    "rua":"",
+                    "bairro":"",
+                    "cidade":""
+                }
+            }}
+        ]
+}
