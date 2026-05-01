@@ -10,7 +10,7 @@
             <ingrediente>3 ovos</ingrediente>
             <ingrediente>Açúcar para caramelizar</ingrediente>
         </ingredientes>
-        <preco moeda="BRL">&reais; 18.00</preco>
+        <preco moeda="BRL">18.00</preco>
         <calorias>230</calorias>
         <tempoPreparo>30min</tempoPreparo>
     </prato>
@@ -27,7 +27,7 @@
             <ingrediente>1 dose pequena de licor de chocolate</ingrediente>
             <ingrediente>chocolate em pó para cobrir</ingrediente>
         </ingredientes>
-        <preco moeda="BRL">&reais; 20.00</preco>
+        <preco moeda="BRL">20.00</preco>
         <calorias>235</calorias>
         <tempoPreparo>5h</tempoPreparo>
     </prato>
@@ -44,7 +44,7 @@
             <ingrediente>3 e 1/2 xícaras de farinha de trigo</ingrediente>
             <ingrediente>1 colher de sopa de fermento</ingrediente>
         </ingredientes>
-        <preco moeda="USD">&reais; 15.00</preco>
+        <preco moeda="USD">15.00</preco>
         <calorias>305</calorias>
         <tempoPreparo>1h</tempoPreparo>
     </prato>
@@ -57,7 +57,7 @@
             <ingrediente>1 colher de sopa de manteiga</ingrediente>
             <ingrediente>leite em pó para cobrir</ingrediente>
         </ingredientes>
-        <preco moeda="USD">&reais; 3.00</preco>
+        <preco moeda="USD">3.00</preco>
         <calorias>65</calorias>
         <tempoPreparo>10min</tempoPreparo>
     </prato>
@@ -71,7 +71,7 @@
             <ingrediente>Corante comestível</ingrediente>
             <ingrediente>Recheio de sorvete (qualquer sabor)</ingrediente>
         </ingredientes>
-        <preco moeda="BRL">&reais; 15.00</preco>
+        <preco moeda="BRL">15.00</preco>
         <calorias>96</calorias>
         <tempoPreparo>20min</tempoPreparo>
     </prato>
